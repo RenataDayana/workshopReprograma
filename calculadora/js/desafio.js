@@ -1,7 +1,6 @@
 
     var inputValorHora = document.querySelector('#valor-hora');
     
-
     var inputHorasProjeto = document.querySelector('#horas-projeto');
 
     var  spanValorTotalProjeto = document.querySelector('#resposta');
